@@ -1,0 +1,14 @@
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\bin\Release\HDX-3005_BD CHECK_IV3_251126_V1.exe.config
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\bin\Release\HDX-3005_BD CHECK_IV3_251126_V1.exe
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\bin\Release\HDX-3005_BD CHECK_IV3_251126_V1.pdb
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\bin\Release\USBInterface.dll
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\bin\Release\USBInterface.pdb
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\obj\Release\threadTest01.csproj.AssemblyReference.cache
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\obj\Release\threadTest01.Form1.resources
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\obj\Release\threadTest01.passwordbox.resources
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\obj\Release\threadTest01.Properties.Resources.resources
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\obj\Release\threadTest01.csproj.GenerateResource.cache
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\obj\Release\threadTest01.csproj.CoreCompileInputs.cache
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\obj\Release\threadTe.6AD54986.Up2Date
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\obj\Release\HDX-3005_BD CHECK_IV3_251126_V1.exe
+D:\MODEL\2025\HDX-3005\HDX-3005_BD_CHECK_IV3\threadTest01\obj\Release\HDX-3005_BD CHECK_IV3_251126_V1.pdb

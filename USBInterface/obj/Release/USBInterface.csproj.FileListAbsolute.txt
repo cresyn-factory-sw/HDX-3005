@@ -1,0 +1,69 @@
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_with_audio_and_key_test_for_cd\USBInterface\bin\Release\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_with_audio_and_key_test_for_cd\USBInterface\obj\Release\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\bin\Release\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\obj\Release\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)\USBInterface\bin\Release\USBInterface.dll
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)\USBInterface\obj\Release\USBInterface.dll
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\bin\Release\USBInterface.dll
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\obj\Release\USBInterface.dll
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(AB1552)\_product\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\bin\Release\USBInterface.dll
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(AB1552)\_product\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\obj\Release\USBInterface.dll
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(AB1552)\_product\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952\threadTest01_HDX-2952\USBInterface\bin\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_single\threadTest01_HDX-2952\USBInterface\bin\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_single\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_single\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws\threadTest01_HDX-2952\USBInterface\bin\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_210506\threadTest01_HDX-2952\USBInterface\bin\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_210506\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\bin\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\bin\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210621\threadTest01_HDX-2952\USBInterface\bin\Release\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210621\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.csprojResolveAssemblyReference.cache
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210621\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.dll
+C:\Users\kimgh\Desktop\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210621\threadTest01_HDX-2952\USBInterface\bin\Release\USBInterface.dll
+C:\Users\kimgh\Desktop\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210621\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.csproj.AssemblyReference.cache
+C:\Users\kimgh\Desktop\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210621\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.csproj.CoreCompileInputs.cache
+C:\Users\kimgh\Desktop\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210621\threadTest01_HDX-2952\USBInterface\obj\Release\USBInterface.dll
+C:\Users\kimgh\Documents\CRESYN 관련\BD Checker program\SONY\threadTest01_HDX-2958_2022.04.12\threadTest01_HDX-2958\USBInterface\bin\Release\USBInterface.dll
+C:\Users\kimgh\Documents\CRESYN 관련\BD Checker program\SONY\threadTest01_HDX-2958_2022.04.12\threadTest01_HDX-2958\USBInterface\obj\Release\USBInterface.csproj.AssemblyReference.cache
+C:\Users\kimgh\Documents\CRESYN 관련\BD Checker program\SONY\threadTest01_HDX-2958_2022.04.12\threadTest01_HDX-2958\USBInterface\obj\Release\USBInterface.csproj.CoreCompileInputs.cache
+C:\Users\kimgh\Documents\CRESYN 관련\BD Checker program\SONY\threadTest01_HDX-2958_2022.04.12\threadTest01_HDX-2958\USBInterface\obj\Release\USBInterface.dll
+C:\Users\kimgh\Desktop\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958\USBInterface\bin\Release\USBInterface.dll
+C:\Users\kimgh\Desktop\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958\USBInterface\obj\Release\USBInterface.csproj.AssemblyReference.cache
+C:\Users\kimgh\Desktop\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958\USBInterface\obj\Release\USBInterface.csproj.CoreCompileInputs.cache
+C:\Users\kimgh\Desktop\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958\USBInterface\obj\Release\USBInterface.dll
+C:\Users\kimgh\Desktop\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958\USBInterface\bin\Release\USBInterface.dll
+C:\Users\kimgh\Desktop\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958\USBInterface\obj\Release\USBInterface.csproj.AssemblyReference.cache
+C:\Users\kimgh\Desktop\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958\USBInterface\obj\Release\USBInterface.csproj.CoreCompileInputs.cache
+C:\Users\kimgh\Desktop\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958\USBInterface\obj\Release\USBInterface.dll
+C:\Users\kimgh\Desktop\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958_IV3 - 복사본\USBInterface\bin\Release\USBInterface.dll
+C:\Users\kimgh\Desktop\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958_IV3 - 복사본\USBInterface\obj\Release\USBInterface.csproj.AssemblyReference.cache
+C:\Users\kimgh\Desktop\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958_IV3 - 복사본\USBInterface\obj\Release\USBInterface.csproj.CoreCompileInputs.cache
+C:\Users\kimgh\Desktop\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958_IV3 - 복사본\USBInterface\obj\Release\USBInterface.dll
+C:\Users\kimgh\Desktop\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958_IV3_기존 - 복사본\USBInterface\bin\Release\USBInterface.dll
+C:\Users\kimgh\Desktop\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958_IV3_기존 - 복사본\USBInterface\obj\Release\USBInterface.csproj.AssemblyReference.cache
+C:\Users\kimgh\Desktop\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958_IV3_기존 - 복사본\USBInterface\obj\Release\USBInterface.csproj.CoreCompileInputs.cache
+C:\Users\kimgh\Desktop\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958_IV3_기존 - 복사본\USBInterface\obj\Release\USBInterface.dll
+D:\MODEL\2023\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958_IV3\threadTest01_HDX-2958_IV3_add color\USBInterface\bin\Release\USBInterface.dll
+D:\MODEL\2023\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958_IV3\threadTest01_HDX-2958_IV3_add color\USBInterface\obj\Release\USBInterface.csproj.AssemblyReference.cache
+D:\MODEL\2023\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958_IV3\threadTest01_HDX-2958_IV3_add color\USBInterface\obj\Release\USBInterface.csproj.CoreCompileInputs.cache
+D:\MODEL\2023\HDX-2958\threadTest01_HDX-2958_BD Checker\threadTest01_HDX-2958_IV3\threadTest01_HDX-2958_IV3_add color\USBInterface\obj\Release\USBInterface.dll
+D:\MODEL\2023\HDX-2958\threadTest01_HDX-2958_BD CHECK\threadTest01_HDX-2958_IV3\threadTest01_HDX-2958_IV3_241004_add color\USBInterface\bin\Release\USBInterface.dll
+D:\MODEL\2023\HDX-2958\threadTest01_HDX-2958_BD CHECK\threadTest01_HDX-2958_IV3\threadTest01_HDX-2958_IV3_241004_add color\USBInterface\obj\Release\USBInterface.csproj.AssemblyReference.cache
+D:\MODEL\2023\HDX-2958\threadTest01_HDX-2958_BD CHECK\threadTest01_HDX-2958_IV3\threadTest01_HDX-2958_IV3_241004_add color\USBInterface\obj\Release\USBInterface.csproj.CoreCompileInputs.cache
+D:\MODEL\2023\HDX-2958\threadTest01_HDX-2958_BD CHECK\threadTest01_HDX-2958_IV3\threadTest01_HDX-2958_IV3_241004_add color\USBInterface\obj\Release\USBInterface.dll
+C:\Users\kimgh\Desktop\threadTest01_HDX-3005_IV3_v251121_V1\USBInterface\bin\Release\USBInterface.dll
+C:\Users\kimgh\Desktop\threadTest01_HDX-3005_IV3_v251121_V1\USBInterface\obj\Release\USBInterface.csproj.AssemblyReference.cache
+C:\Users\kimgh\Desktop\threadTest01_HDX-3005_IV3_v251121_V1\USBInterface\obj\Release\USBInterface.csproj.CoreCompileInputs.cache
+C:\Users\kimgh\Desktop\threadTest01_HDX-3005_IV3_v251121_V1\USBInterface\obj\Release\USBInterface.dll

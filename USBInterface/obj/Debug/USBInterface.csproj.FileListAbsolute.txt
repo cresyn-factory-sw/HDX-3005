@@ -1,0 +1,71 @@
+c:\12\HIDInterface-master\USBInterface\bin\Debug\USBInterface.dll
+c:\12\HIDInterface-master\USBInterface\bin\Debug\USBInterface.pdb
+c:\12\HIDInterface-master\USBInterface\obj\Debug\USBInterface.dll
+c:\12\HIDInterface-master\USBInterface\obj\Debug\USBInterface.pdb
+c:\12\HIDInterface-master\USBInterface\obj\Debug\USBInterface.csprojResolveAssemblyReference.cache
+C:\14\threadTest01_HDX-2910_final_unified_fw_with_audio_test\USBInterface\bin\Debug\USBInterface.dll
+C:\14\threadTest01_HDX-2910_final_unified_fw_with_audio_test\USBInterface\bin\Debug\USBInterface.pdb
+C:\14\threadTest01_HDX-2910_final_unified_fw_with_audio_test\USBInterface\obj\Debug\USBInterface.dll
+C:\14\threadTest01_HDX-2910_final_unified_fw_with_audio_test\USBInterface\obj\Debug\USBInterface.pdb
+c:\14\threadTest01_HDX-2910_final_unified_fw_with_audio_test\USBInterface\obj\Debug\USBInterface.csprojResolveAssemblyReference.cache
+c:\14\threadTest01_HDX-2910_final_unified_fw_with_audio_test2\USBInterface\bin\Debug\USBInterface.dll
+c:\14\threadTest01_HDX-2910_final_unified_fw_with_audio_test2\USBInterface\bin\Debug\USBInterface.pdb
+c:\14\threadTest01_HDX-2910_final_unified_fw_with_audio_test2\USBInterface\obj\Debug\USBInterface.dll
+c:\14\threadTest01_HDX-2910_final_unified_fw_with_audio_test2\USBInterface\obj\Debug\USBInterface.pdb
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_with_audio_and_key_test_for_cd\USBInterface\bin\Debug\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_with_audio_and_key_test_for_cd\USBInterface\bin\Debug\USBInterface.pdb
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_with_audio_and_key_test_for_cd\USBInterface\obj\Debug\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(AIROHA)\HDX-2910\product\threadTest01_HDX-2910_final_unified_fw_with_audio_and_key_test_for_cd\USBInterface\obj\Debug\USBInterface.pdb
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\bin\Debug\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\bin\Debug\USBInterface.pdb
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\obj\Debug\USBInterface.dll
+d:\+work\sw_dev\+vs_2013\_sony_prod_(RTK)\threadTest01_HDX-2936_final_unified_fw_(original)\USBInterface\obj\Debug\USBInterface.pdb
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)\USBInterface\bin\Debug\USBInterface.dll
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)\USBInterface\bin\Debug\USBInterface.pdb
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)\USBInterface\obj\Debug\USBInterface.dll
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)\USBInterface\obj\Debug\USBInterface.pdb
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\bin\Debug\USBInterface.dll
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\bin\Debug\USBInterface.pdb
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\obj\Debug\USBInterface.dll
+d:\14\4\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\obj\Debug\USBInterface.pdb
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(AB1552)\_product\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\bin\Debug\USBInterface.dll
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(AB1552)\_product\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\bin\Debug\USBInterface.pdb
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(AB1552)\_product\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\obj\Debug\USBInterface.dll
+d:\+work\sw_dev\+visual_studio_project\_sony_prod_(AB1552)\_product\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\obj\Debug\USBInterface.pdb
+d:\6\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\bin\Debug\USBInterface.dll
+d:\6\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\bin\Debug\USBInterface.pdb
+d:\6\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\obj\Debug\USBInterface.csprojResolveAssemblyReference.cache
+d:\6\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\obj\Debug\USBInterface.dll
+d:\6\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\obj\Debug\USBInterface.pdb
+D:\+work\sw_dev\+visual_studio_project\_sony_prod_(AB1552)\_product\threadTest01_HDX-2936_final_unified_fw_(original)_(win10_test)_(2944)\USBInterface\obj\Debug\USBInterface.csprojResolveAssemblyReference.cache
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.csprojResolveAssemblyReference.cache
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_single\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_single\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_single\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.csprojResolveAssemblyReference.cache
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_single\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_single\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.csprojResolveAssemblyReference.cache
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_210506\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_210506\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_210506\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_210506\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210616\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210621\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210621\threadTest01_HDX-2952\USBInterface\bin\Debug\USBInterface.pdb
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210621\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.dll
+D:\share_source\Wireless BDChecker_TWS\hdx-2952\threadTest01_HDX-2952_aws_Maxdatasize_Sn_VP_210621\threadTest01_HDX-2952\USBInterface\obj\Debug\USBInterface.pdb
