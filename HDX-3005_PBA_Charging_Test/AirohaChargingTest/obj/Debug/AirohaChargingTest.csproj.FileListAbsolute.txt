@@ -1,0 +1,111 @@
+D:\model\Tool_Source\HDX2945\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe.config
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe.config
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\AirohaChargingTest.pdb
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\Airoha.BTDevices.AB1520C.dll
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\Airoha.Library.dll
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\Airoha.Model.AB1520C.dll
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\FTD2XX_NET.dll
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\Ivi.Visa.dll
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\NationalInstruments.Visa.dll
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\FTD2XX_NET.xml
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\Ivi.Visa.xml
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\bin\Debug\NationalInstruments.Visa.xml
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\obj\Debug\AirohaChargingTest.csprojResolveAssemblyReference.cache
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\obj\Debug\AirohaChargingTest.Form1.resources
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\obj\Debug\AirohaChargingTest.Properties.Resources.resources
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\obj\Debug\AirohaChargingTest.csproj.GenerateResource.Cache
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\obj\Debug\AirohaChargingTest.exe
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_addLog_addGpioControl_(full_vbat_fix_170805)_(thm_resistor_control_190107)\AirohaChargingTest\obj\Debug\AirohaChargingTest.pdb
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe.config
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\obj\Debug\AirohaChargingTest.exe
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\obj\Debug\AirohaChargingTest.pdb
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\AirohaChargingTest.pdb
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\Airoha.BTDevices.AB1520C.dll
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\Airoha.Library.dll
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\Airoha.Model.AB1520C.dll
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\FTD2XX_NET.dll
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\Ivi.Visa.dll
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\NationalInstruments.Visa.dll
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\FTD2XX_NET.xml
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\Ivi.Visa.xml
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\NationalInstruments.Visa.xml
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\obj\Debug\AirohaChargingTest.csprojResolveAssemblyReference.cache
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\obj\Debug\AirohaChargingTest.Form1.resources
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\obj\Debug\AirohaChargingTest.Properties.Resources.resources
+D:\model\Tool_Source\HDX2945\Charging\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\obj\Debug\AirohaChargingTest.csproj.GenerateResource.Cache
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe.config
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\AirohaChargingTest.pdb
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\Airoha.BTDevices.AB1520C.dll
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\Airoha.Library.dll
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\Airoha.Model.AB1520C.dll
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\FTD2XX_NET.dll
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\Ivi.Visa.dll
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\FTD2XX_NET.xml
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\Ivi.Visa.xml
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\obj\Debug\AirohaChargingTest.csprojResolveAssemblyReference.cache
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\obj\Debug\AirohaChargingTest.Form1.resources
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\obj\Debug\AirohaChargingTest.Properties.Resources.resources
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\obj\Debug\AirohaChargingTest.csproj.GenerateResource.Cache
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\obj\Debug\AirohaChargingTest.exe
+C:\Users\kisun\Desktop\ATH-S220BT\AirohaChargingTest_HDX2945_190813\AirohaChargingTest\obj\Debug\AirohaChargingTest.pdb
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe.config
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\obj\Debug\AirohaChargingTest.exe
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\obj\Debug\AirohaChargingTest.pdb
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\AirohaChargingTest.pdb
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\Airoha.BTDevices.AB1520C.dll
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\Airoha.Library.dll
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\Airoha.Model.AB1520C.dll
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\FTD2XX_NET.dll
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\Ivi.Visa.dll
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\FTD2XX_NET.xml
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\Ivi.Visa.xml
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\obj\Debug\AirohaChargingTest.Form1.resources
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\obj\Debug\AirohaChargingTest.Properties.Resources.resources
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\obj\Debug\AirohaChargingTest.csproj.GenerateResource.Cache
+C:\Users\kisun\Desktop\ATH-S220BT\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\obj\Debug\AirohaChargingTest.csprojResolveAssemblyReference.cache
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe.config
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\obj\Debug\AirohaChargingTest.exe
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\obj\Debug\AirohaChargingTest.pdb
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\AirohaChargingTest.pdb
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\Airoha.BTDevices.AB1520C.dll
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\Airoha.Library.dll
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\Airoha.Model.AB1520C.dll
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\FTD2XX_NET.dll
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\Ivi.Visa.dll
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\FTD2XX_NET.xml
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\Ivi.Visa.xml
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\obj\Debug\AirohaChargingTest.csprojResolveAssemblyReference.cache
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\obj\Debug\AirohaChargingTest.Form1.resources
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\obj\Debug\AirohaChargingTest.Properties.Resources.resources
+C:\Users\kimgh\Desktop\ATH-S220BT_PBA_Charging Test_source\AirohaChargingTest\obj\Debug\AirohaChargingTest.csproj.GenerateResource.Cache
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe.config
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\bin\Debug\AirohaChargingTest.exe
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\bin\Debug\AirohaChargingTest.pdb
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\bin\Debug\Airoha.BTDevices.AB1520C.dll
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\bin\Debug\Airoha.Library.dll
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\bin\Debug\Airoha.Model.AB1520C.dll
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\bin\Debug\FTD2XX_NET.dll
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\bin\Debug\Ivi.Visa.dll
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\bin\Debug\NationalInstruments.Visa.dll
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\bin\Debug\FTD2XX_NET.xml
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\bin\Debug\Ivi.Visa.xml
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\bin\Debug\NationalInstruments.Visa.xml
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\obj\Debug\AirohaChargingTest.csproj.AssemblyReference.cache
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\obj\Debug\AirohaChargingTest.Form1.resources
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\obj\Debug\AirohaChargingTest.Properties.Resources.resources
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\obj\Debug\AirohaChargingTest.csproj.GenerateResource.cache
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\obj\Debug\AirohaChargingTest.csproj.CoreCompileInputs.cache
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\obj\Debug\AirohaCh.BF284746.Up2Date
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\obj\Debug\AirohaChargingTest.exe
+C:\Users\kimgh\Desktop\PPU-BN0300_PBA_Charging Test\AirohaChargingTest\obj\Debug\AirohaChargingTest.pdb
